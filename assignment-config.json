@@ -1,0 +1,21 @@
+{
+	"name": "react-dasar-live-code-2.2",
+	"course": "Frontend Web Development with React",
+	"title": "Live Coding - Ruang Anime",
+	"order": 999,
+	"topics": [
+		"React Dasar",
+		"JSX",
+		"Conditional Rendering",
+		"List Rendering",
+		"Event Handling",
+		"State",
+		"Hooks"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "live-coding"
+	}
+}
